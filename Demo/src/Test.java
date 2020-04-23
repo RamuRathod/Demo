@@ -8,7 +8,12 @@ public class Test {
 		
 		System.out.println("Changes from Ankush");
 		
-		System.out.println("push from ramu");
+		System.out.println("push opertion from ramu");
+		
+		System.out.println("new pull opertion");
+		
+		
+		
 	}
 
 }
