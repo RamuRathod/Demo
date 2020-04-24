@@ -14,7 +14,9 @@ public class Test {
 		
 		System.out.println("todays pull opertion from ramu");
 		
+		System.out.println("todays pull Succssfully by Ankush");
 		
+		System.out.println("todays Push opertion from Ankush");
 		
 		
 		
