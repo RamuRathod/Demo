@@ -12,6 +12,11 @@ public class Test {
 		
 		System.out.println("new pull opertion");
 		
+		System.out.println("todays pull opertion from ramu");
+		
+		
+		
+		
 		
 		
 	}
